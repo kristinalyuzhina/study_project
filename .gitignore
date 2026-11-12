@@ -1,0 +1,13 @@
+# Датасет (больше 25 МБ, GitHub его не примет)
+data/dst-3*hh_database.csv
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
